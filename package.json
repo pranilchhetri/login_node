@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/pranilchhetri/login_node/issues"
   },
-  "homepage": "https://github.com/pranilchhetri/login_node#readme"
+  "homepage": "https://github.com/pranilchhetri/login_node#readme",
+  "dependencies": {
+    "mysql": "^2.16.0"
+  }
 }
